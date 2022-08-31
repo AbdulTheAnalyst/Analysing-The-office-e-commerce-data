@@ -59,6 +59,6 @@ The Company sells a wide variety of products including Office Supplies, Funiture
 5. Slice by segment
 6. Select a date range
 
-![](PerformanceLocation.png)
+![](Images/PerformanceLocation.png)
 
 ### Conclusion
