@@ -63,4 +63,4 @@ The Company sells a wide variety of products including Office Supplies, Funiture
 
 ### Conclusion
 
-<p> Here's the link to my interactive dashboard page on [Tableau public](https://public.tableau.com/views/SalesPerformanceLocationDashboard/PerformancebyLocation?:language=en-GB&:display_count=n&:origin=viz_share_link)
+- Here's the link to my interactive dashboard page on [Tableau Public](https://public.tableau.com/views/SalesPerformanceLocationDashboard/PerformancebyLocation?:language=en-GB&:display_count=n&:origin=viz_share_link).
