@@ -44,6 +44,8 @@ The Company sells a wide variety of products including Office Supplies, Funiture
  6. Shipping preferences by SubCategory
  ##### User Interaction
  7. Select a date range
+ 
+ []!(Images/SalesDashboard)
 
 ### Performance By Location Dashboard (5 year period)
 
