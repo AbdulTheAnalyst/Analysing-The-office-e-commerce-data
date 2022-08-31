@@ -45,7 +45,7 @@ The Company sells a wide variety of products including Office Supplies, Funiture
  ##### User Interaction
  7. Select a date range
  
- []!(Images/SalesDashboard)
+ ![](Images/SalesDashboard.png)
 
 ### Performance By Location Dashboard (5 year period)
 
@@ -58,3 +58,7 @@ The Company sells a wide variety of products including Office Supplies, Funiture
 #### User Interaction
 5. Slice by segment
 6. Select a date range
+
+![](PerformanceLocation.png)
+
+### Conclusion
